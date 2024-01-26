@@ -525,17 +525,17 @@ a{
 }
 
 #project1 {
-  background-image: url(../Images/Python.jpg);
+  background-image: url(Python.jpg);
 }
 #project2 {
-  background-image: url(../Images/Walmart1.jpg);
+  background-image: url(Walmart1.jpg);
   margin-left: 120px;
 }
 #project3 {
-  background-image: url(../Images/HR.avif);
+  background-image: url(HR.avif);
 }
 #project4 {
-  background-image: url(../Images/in-store-marketing.jpg);
+  background-image: url(in-store-marketing.jpg);
   margin-left: 120px;
 }
 
